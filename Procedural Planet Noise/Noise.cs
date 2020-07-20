@@ -21,6 +21,7 @@ From Karsten Schmidt (slight optimizations & restructuring)
 
 Some changes by Sebastian Lague for use in a tutorial series.
 */
+//7
 
 /*
  * Noise module that outputs 3-dimensional Simplex Perlin noise.
